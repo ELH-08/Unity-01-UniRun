@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 85f08caec5cd247478bf53a4b7819f3d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - backgroundClip: {fileID: 8300000, guid: 40ac39dff6e2f354f81de00e760e72fd, type: 3}
+  - deathClip: {fileID: 8300000, guid: 668a107660fa54fe98e03b698a09aa49, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
