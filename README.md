@@ -1,5 +1,5 @@
 # Unity
-K-Digital Training - Unity 활용 VR/AR(실감형) 콘텐츠 제작 (고용노동부 주관)
+K-Digital Training - Unity 활용 VR/AR(실감형) 콘텐츠 제작 (고용노동부)
 
 ### 제목
 >  인용할 
